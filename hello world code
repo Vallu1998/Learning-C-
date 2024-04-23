@@ -1,7 +1,2 @@
-#iinclude <iostream>
-using namespace std;
-
-int main() {
-    cout << "hello world !";
-    return 0;
-}
+#include <iostream>
+int main() { std::cout << "Hello World\n"; return 0; } //it's a same hello world code but this in only using 2 lines of code
